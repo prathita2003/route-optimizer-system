@@ -105,7 +105,7 @@ Frontend (Angular) → REST API (Spring Boot) → Graph Processing Engine
 
 ### Algorithm Comparison
 
-<img width="732" height="383" alt="image" src="https://github.com/user-attachments/assets/4a975514-8ce4-4914-a797-f5e8e92ab2a1" />
+<img width="649" height="341" alt="image" src="https://github.com/user-attachments/assets/fef50c97-181f-4229-92d2-661bc342747d" />
 
 
 ### Result Display
